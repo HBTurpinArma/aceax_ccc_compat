@@ -1,7 +1,7 @@
-class CCC_Facewear_LowProfileGoggles
+class CCC_Facewear_CombatGoggles
 {
     options[] = { "camo" }; // Always computed, do not edit
-    label = "Low Profile Goggles";
+    label = "Combat Goggles";
     class camo
     {
         alwaysSelectable = 1;
