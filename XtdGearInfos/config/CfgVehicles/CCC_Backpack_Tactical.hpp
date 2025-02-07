@@ -1,32 +1,32 @@
 class CCC_Backpack_Tactical_Gr {
   model = "CCC_Backpack_Tactical";
-  camo1 = "Green";
+  camo = "Green";
 };
 class CCC_Backpack_Tactical_Br {
   model = "CCC_Backpack_Tactical";
-  camo1 = "Brown";
+  camo = "Brown";
 };
 class CCC_Backpack_Tactical_Bl {
   model = "CCC_Backpack_Tactical";
-  camo1 = "Black";
+  camo = "Black";
 };
 class CCC_Backpack_Tactical_S {
   model = "CCC_Backpack_Tactical";
-  camo1 = "Snow";
+  camo = "Snow";
 };
 class CCC_Backpack_Tactical_D {
   model = "CCC_Backpack_Tactical";
-  camo1 = "Dry";
+  camo = "Dry";
 };
 class CCC_Backpack_Tactical_T {
   model = "CCC_Backpack_Tactical";
-  camo1 = "Temperate";
+  camo = "Temperate";
 };
 class CCC_Backpack_Tactical_Tr {
   model = "CCC_Backpack_Tactical";
-  camo1 = "Tropical";
+  camo = "Tropical";
 };
 class CCC_Backpack_Tactical_M {
   model = "CCC_Backpack_Tactical";
-  camo1 = "Murky";
+  camo = "Murky";
 };
